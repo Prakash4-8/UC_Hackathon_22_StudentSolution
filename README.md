@@ -4,7 +4,7 @@ The student's solution is a front-end project to store and organize all the info
 # Project Name :- Student Solution
 
 ## About Project:
-This is a front end created in a 24-hour RevolutionUC Hackathon 2022.
+This is a front end project created in a 24-hour RevolutionUC Hackathon 2022.
 Official Link: 
 
 ## Idea behind the project:
@@ -13,4 +13,9 @@ During this pandemic situation, we are attending online classes. To access class
 ## What we learned from Student's Solution ?
 We learned how to design multiple things using HTML and CSS. During this project, we experienced teamwork, the feelings of working with different people with different skills in a team. We learned how to work in a group, how to share ideas, how to apply all theories to practical use. It was a great experience while working with my friends. We teach each other and we learn too. We learn the use of HTML and CSS in a better way.
 ## What does Student Solution do?
-It provides a platform to organize all of the study material, class links, syllabus, timing, teacher's name, etc. in one place. So, students didn't have to worry of arranging things. So, We will provide them this features.
+It provides a platform to organize all of the study material, class links, syllabus, timing, teacher's name, etc. in one place. so, students didn't have to worry of arranging things. We will provide them this features.
+## Future Enhancements:
+We can add Javascript and back-end to make a more useful project.
+## Changellences faced during this project:
+1. It wasn't that easy to work in a team on the first go. There were conflicts of ideas and how to do it.
+2. In the beginning, we took much time to put our ideas into code because this was our first practical project. It wasn't that easy to work in a team on the first go. There were conflicts of ideas and how to do it. Even after writing the code, we were not satisfied and try to add new things.
