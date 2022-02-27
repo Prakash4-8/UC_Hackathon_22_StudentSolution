@@ -1,0 +1,114 @@
+h1{
+  font-family: cursive;
+  text-shadow: 2px 2px 5px fuchsia;
+  margin-top: 0px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: #1edbf4;
+  background-image: url('../images/Login-bg-img.jpg');
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background: rgb(68, 58, 54);
+  
+}
+
+.navbar a {
+  font-family: serif;
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  font-family: serif;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(68, 58, 54);
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: red;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 6px;
+}
+.body p{
+  text-align: justify;
+  word-spacing: 5px;
+  text-shadow: 2px 2px 5px white;
+  font-family: serif;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  
+  font-size: 30px;
+  width: 600px;
+  margin: 0 auto;
+  background: radial-gradient(circle at 100% 100%, rgba(65,215,231,0.85) 0, rgba(65,215,231,0.85) 6px, transparent 6px) 0% 0%/19px 19px no-repeat,     
+              radial-gradient(circle at 0 100%, rgba(65,215,231,0.85) 0, rgba(65,215,231,0.85) 6px, transparent 6px) 100% 0%/19px 19px no-repeat,           
+              radial-gradient(circle at 100% 0, rgba(65,215,231,0.85) 0, rgba(65,215,231,0.85) 6px, transparent 6px) 0% 100%/19px 19px no-repeat,       
+              radial-gradient(circle at 0 0, rgba(65,215,231,0.85) 0, rgba(65,215,231,0.85) 6px, transparent 6px) 100% 100%/19px 19px no-repeat,     
+              linear-gradient(rgba(65,215,231,0.85), rgba(65,215,231,0.85)) 50% 50%/calc(100% - 26px) calc(100% - 38px) no-repeat, 
+              linear-gradient(rgba(65,215,231,0.85), rgba(65,215,231,0.85)) 50% 13px/calc(100% - 38px) 6px no-repeat, 
+              linear-gradient(rgba(65,215,231,0.85), rgba(65,215,231,0.85)) 50% calc(100% - 13px)/calc(100% - 38px) 6px no-repeat,
+              linear-gradient(296deg, rgba(137,23,169,0.6) 0%, rgba(44,138,187,0.09) 41%, #48abe0 76%);border-radius: 19px;padding: 34px;box-sizing: border-box;
+  padding: 20px 20px 20px 20px;
+  border: 5px solid burlywood;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+  overflow: hidden;
+}
