@@ -1,4 +1,6 @@
 h1{
+  font-family: cursive;
+  text-shadow: 2px 2px 5px fuchsia;
   margin-top: 0px;
   width: 100%;
   height: auto;
@@ -19,6 +21,7 @@ body {
 }
 
 .navbar a {
+  font-family: serif;
   float: left;
   font-size: 16px;
   color: white;
@@ -34,7 +37,8 @@ body {
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
+  font-size: 16px;
+  font-family: serif;  
   border: none;
   outline: none;
   color: white;
@@ -84,6 +88,11 @@ body {
   padding: 6px;
 }
 .body p{
+  text-align: justify;
+  word-spacing: 5px;
+  text-shadow: 2px 2px 5px white;
+  font-family: serif;
+  font-style: italic;
   display: flex;
   align-items: center;
   
