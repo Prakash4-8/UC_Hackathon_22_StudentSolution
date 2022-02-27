@@ -21,3 +21,9 @@ It provides a platform to organize all of the study material, class links, sylla
 
 ## Future Enhancements:
 We can add Javascript and back-end to make a more useful project.
+
+## Demo Video
+https://user-images.githubusercontent.com/96694261/155887758-dab884ef-9be5-476f-9155-15ba0531e7b9.mp4
+
+## Meet the Team
+![TeamMembers](https://user-images.githubusercontent.com/96694261/155887911-f8103b33-43e3-4fce-8a13-2bfa82ac263d.jpeg)
