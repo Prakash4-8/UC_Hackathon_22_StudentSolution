@@ -33,6 +33,8 @@ https://user-images.githubusercontent.com/96694261/155887758-dab884ef-9be5-476f-
 ![TeamMembers](https://user-images.githubusercontent.com/96694261/155887911-f8103b33-43e3-4fce-8a13-2bfa82ac263d.jpeg)
 
 ### GitHub Accounts
-Siddharth - @SiddharthSinghKushwaha
-Sonali - @sonalipalai
-Prakash - @Prakash4-8
+1. Siddharth - [@SiddharthSinghKushwaha](https://github.com/SiddharthSinghKushwaha)
+
+2. Sonali - [@sonalipalai](https://github.com/sonalipalai)
+
+3. Prakash - [@Prakash4-8](https://github.com/Prakash4-8)
