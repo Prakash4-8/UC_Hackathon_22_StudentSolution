@@ -27,3 +27,8 @@ https://user-images.githubusercontent.com/96694261/155887758-dab884ef-9be5-476f-
 
 ## Meet the Team
 ![TeamMembers](https://user-images.githubusercontent.com/96694261/155887911-f8103b33-43e3-4fce-8a13-2bfa82ac263d.jpeg)
+
+### GitHub Accounts
+Siddharth - @SiddharthSinghKushwaha
+Sonali - @sonalipalai
+Prakash - @Prakash4-8
